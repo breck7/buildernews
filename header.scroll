@@ -1,6 +1,6 @@
 importOnly
-baseUrl https://news.pub
-baseUrl https://news.pub/
+baseUrl https://buildernews.breck.lol
+baseUrl https://buildernews.breck.lol/
 buildHtml
 buildTxt
 favicon favicon.ico

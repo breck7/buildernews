@@ -9,8 +9,8 @@ nm,Namanyay Goel,"<a href=""mailto:hi@nmn.gl"">email</a> <a href=""https://nmn.g
 hassam,Hassam Alhajaji,"<a href=""mailto:hassam.alhajaji@gmail.com"">email</a> <a href=""https://github.com/hassamalhajaji"">gits</a>"
 
 Home | Builders | Join | Add Try | JSON
- https://news.pub/index.html Home
- https://news.pub/builders.html Builders
- https://news.pub/edit.html?folderName=news.pub&fileName=builders.scroll Join
- https://news.pub/edit.html?folderName=news.pub&fileName=tries.scroll Add Try
- https://news.pub/tries.json JSON
+ https://buildernews.breck.lol/index.html Home
+ https://buildernews.breck.lol/builders.html Builders
+ https://github.com/breck7/buildernews/blob/main/builders.scroll Join
+ https://github.com/breck7/buildernews/blob/main/tries.scroll Add Try
+ https://buildernews.breck.lol/tries.json JSON
