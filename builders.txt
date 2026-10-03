@@ -1,14 +1,16 @@
 Builders
 ========
 buildername,name,links
-breck,Breck Yunits,"email twitter homepage gits youtube"
-steph,Stephanie Rania,"email twitter instagram"
-nm,Namanyay Goel,"email homepage gits"
-hassam,Hassam Alhajaji,"email gits"
+jim,jim,"<a href=""mailto:https://www.youtube.com/@jamesoofou6723"">youtube</a>"
+bardic,bardic,"<a href=""https://x.com/bardicmakes"">twitter</a> <a href=""https://github.com/bardicreels"">gits</a> <a href=""mailto:https://www.youtube.com/@BardicReels"">youtube</a>"
+breck,Breck Yunits,"<a href=""mailto:breck7@gmail.com"">email</a> <a href=""https://x.com/breckyunits"">twitter</a> <a href=""https://breckyunits.com"">homepage</a> <a href=""https://github.com/breck7"">gits</a> <a href=""mailto:https://www.youtube.com/@breckyunits"">youtube</a>"
+steph,Stephanie Rania,"<a href=""mailto:slrania@gmail.com"">email</a> <a href=""https://x.com/ballotshaker"">twitter</a> <a href=""https://instagram.com/ballotshaker"">instagram</a>"
+nm,Namanyay Goel,"<a href=""mailto:hi@nmn.gl"">email</a> <a href=""https://nmn.gl/"">homepage</a> <a href=""https://github.com/namanyayg"">gits</a>"
+hassam,Hassam Alhajaji,"<a href=""mailto:hassam.alhajaji@gmail.com"">email</a> <a href=""https://github.com/hassamalhajaji"">gits</a>"
 
 Home | Builders | Join | Add Try | JSON
- /index.html Home
- /builders.html Builders
- https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=builders.scroll Join
- https://hub.scroll.pub/edit.html?folderName=news.pub&fileName=tries.scroll Add Try
- /tries.json JSON
+ https://news.pub/index.html Home
+ https://news.pub/builders.html Builders
+ https://news.pub/edit.html?folderName=news.pub&fileName=builders.scroll Join
+ https://news.pub/edit.html?folderName=news.pub&fileName=tries.scroll Add Try
+ https://news.pub/tries.json JSON

@@ -1,4 +1,6 @@
 importOnly
+baseUrl https://news.pub
+baseUrl https://news.pub/
 buildHtml
 buildTxt
 favicon favicon.ico
@@ -6,7 +8,7 @@ openGraphImage og.jpg
 
 metaTags
 homeButton
-viewSourceButton edit.html
+editButton edit.html
 css
  .abstractIconButtonParser {z-index: 5;}
  .thumbnail {

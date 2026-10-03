@@ -1,6 +1,590 @@
 [
   {
-    "rank": 7,
+    "rank": 9,
+    "url": "https://demo.exa.ai/deepseekchat",
+    "creation": "Exa",
+    "try": "https://x.com/breckyunits/status/1885087298599137326",
+    "date": "1/30/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 10,
+    "url": "https://corca.app",
+    "creation": "corca",
+    "try": "https://www.loom.com/embed/45fa6d356fd9404aa15b782f37f53d28?sid=a7107df0-b688-47e2-bba0-ee0e565c1fbe",
+    "date": "1/30/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 11,
+    "url": "https://codeberg.org/samedev/colider",
+    "creation": "colider",
+    "try": "https://www.loom.com/embed/875d24a5edd144bbb6209a2540d9f9db?sid=6055fac0-28c1-4dc5-af15-07e1694ac579",
+    "date": "1/29/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 12,
+    "url": "https://find.fl1nt.dev/",
+    "creation": "website finder",
+    "try": "https://www.loom.com/embed/f98df53a275e47178913ed55fc7b98da?sid=18a84db7-e6f6-4f09-af4c-ba23218a1c44",
+    "date": "1/28/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 13,
+    "url": "https://xls.feldera.io/",
+    "creation": "Feldera",
+    "try": "https://www.loom.com/embed/a3338372b5cd49b09a69200dc2d23b91?sid=bf3ab8fe-b511-430b-bd7c-4764e076f4f6",
+    "date": "1/18/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 14,
+    "url": "https://www.preswald.com/",
+    "creation": "Preswald",
+    "try": "https://www.loom.com/embed/cc7a39eaaee3432a9aabfb6f54a708c6?sid=f2433e6f-d1a1-43e9-b38e-c3dac1b3b27c",
+    "date": "1/10/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 15,
+    "url": "https://www.talkwithamia.com/",
+    "creation": "Amia - AI therapist",
+    "try": "https://www.youtube.com/embed/aL5dE29Vpps?si=5fh_jvH2t7PCzDO5",
+    "date": "1/08/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 16,
+    "url": "https://www.rae.chat/",
+    "creation": "Rae - AI therapist",
+    "try": "https://www.youtube.com/embed/QCwz4hrobq4?si=vRZt0PdNsKrjtbVp",
+    "date": "1/07/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 17,
+    "url": "https://verdex.cc/",
+    "creation": "Verdex - 3D printing",
+    "try": "https://www.youtube.com/embed/-q7PmlP1IOo?si=mu88hNR8Y403fRHs",
+    "date": "1/07/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 18,
+    "url": "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html",
+    "creation": "Categorical Configuration Language",
+    "try": "https://x.com/breckyunits/status/1876687781009010701",
+    "date": "1/07/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 19,
+    "url": "https://galaxybrain.com/",
+    "creation": "GalaxyBrain",
+    "try": "https://www.youtube.com/embed/393ZIOeDa9Q?si=PiJQ7Ua_ERJR85qU",
+    "date": "1/07/2025",
+    "buildername": "breck"
+  },
+  {
+    "rank": 1,
+    "url": "https://www.anky.bot/",
+    "creation": "anky",
+    "try": "https://www.youtube.com/embed/H-IJyPOwIQ0?si=q3m3_TDlMK4At-MQ",
+    "date": "12/18/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 20,
+    "url": "https://computer.tldraw.com/",
+    "creation": "tldraw computer",
+    "try": "https://www.youtube.com/embed/lsg6mRoMcjI?si=4yoHDarhVjkS7d95",
+    "date": "12/18/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 21,
+    "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+    "creation": "What is Entropy?",
+    "try": "https://www.youtube.com/embed/hu7AW-z3lWw?si=Kp7DIxVF8LyehvMs",
+    "date": "12/14/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 22,
+    "url": "https://www.indie.vc/",
+    "creation": "Indie.vc",
+    "try": "https://www.loom.com/embed/b715318c683042be8a4bf9a8e8fa84ff?sid=fdc80848-6340-4e44-863f-41b8b938feaa",
+    "date": "12/09/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 23,
+    "url": "https://webb.page",
+    "creation": "Webb.page",
+    "try": "https://www.youtube.com/embed/knll9Qv1IZs?si=rMb2SospBGTuxiiK",
+    "date": "12/09/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 24,
+    "url": "https://dbos.dev/",
+    "creation": "DBOS",
+    "try": "https://www.youtube.com/embed/p7i4qOcLbr8?si=ZWDjUHUZuuyuprgY",
+    "date": "12/09/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 25,
+    "url": "https://github.com/farcasterxyz/protocol/discussions/207",
+    "creation": "SnapChain",
+    "try": "https://www.youtube.com/embed/MLhJRBOqzZw?si=IymPi0F6-iqMioTo",
+    "date": "12/06/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 26,
+    "url": "https://github.com/viktorchernev/DescribeCompiler",
+    "creation": "Describe Markup Language",
+    "try": "https://www.youtube.com/embed/-L6V9Bvdvvg?si=FVIUgJZBgj8HRumV",
+    "date": "12/04/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 27,
+    "url": "https://giffium.com/",
+    "creation": "giffium.com",
+    "try": "https://www.youtube.com/watch?v=Lupsdqjib48&t=624s",
+    "date": "11/30/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 28,
+    "url": "https://openfabric.dev/",
+    "creation": "OpenFabric.ai",
+    "try": "https://www.youtube.com/embed/eMuA5s-eFTQ?si=V8X6-SpoWfPwFMAA",
+    "date": "11/27/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 29,
+    "url": "https://www.silentpoems.net",
+    "creation": "SilentPoems.net",
+    "try": "https://www.youtube.com/embed/24jjvAhEBCQ?si=BE3MZud3I5wShWiN",
+    "date": "11/26/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 30,
+    "url": "https://www.steveruiz.me",
+    "creation": "Steveruiz.me",
+    "try": "https://www.loom.com/embed/656b6e7b627a4663be4eb6b9afe6ac73?sid=7e315089-98cd-4aeb-8fb6-2c50278d0177",
+    "date": "11/24/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 31,
+    "url": "https://read.cv",
+    "creation": "Read.cv",
+    "try": "https://www.youtube.com/embed/VLaYVc2g1Js?si=u-89rvg39xcHl3sB",
+    "date": "11/18/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 32,
+    "url": "https://memelord.tech/",
+    "creation": "Memelord",
+    "try": "https://www.youtube.com/embed/ta0bXAb35Pc?si=TY6kepcAB4axKLTb",
+    "date": "11/16/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 33,
+    "url": "https://codemia.io/",
+    "creation": "Codemia",
+    "try": "https://www.youtube.com/embed/-RIL2ZPo7g4?si=FchtKx6br_b9y0DI",
+    "date": "11/07/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 34,
+    "url": "https://designkitchen.dev/if-not-wordpress-then-what/",
+    "creation": "If Not Wordpress Then What",
+    "try": "https://www.youtube.com/embed/ZT1Isxd_dV4?si=RlzKAPT8BsJW0dKY",
+    "date": "11/06/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 35,
+    "url": "https://threadsight.xyz/",
+    "creation": "Threadsight",
+    "try": "https://www.youtube.com/embed/6wYBenANb-E?si=zJeJdK9IU5rdqONe",
+    "date": "11/06/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 36,
+    "url": "https://news.kiwistand.com/",
+    "creation": "Kiwi News",
+    "try": "https://www.youtube.com/embed/vT7GjQP9FfI?si=jKugXnrzDeFnBckm",
+    "date": "11/06/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 37,
+    "url": "https://quilibrium.com/",
+    "creation": "Quilibrium",
+    "try": "https://www.youtube.com/embed/9lmf_ObVpm4?si=QgC7DuTpdIxvImMv",
+    "date": "11/06/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 38,
+    "url": "https://vercel.com/",
+    "creation": "Vercel",
+    "try": "https://www.loom.com/embed/ca92da66d0964500a5563cc9c25ac8a3?sid=e5057199-3ddb-4e47-ab36-97b72d4f6d43",
+    "date": "11/04/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 39,
+    "url": "https://datacommons.org/",
+    "creation": "Data Commons",
+    "try": "https://www.youtube.com/embed/0yCULUChQ1w?si=kDTeTk3eIC11WpVe",
+    "date": "11/04/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 40,
+    "url": "https://reel.farm",
+    "creation": "reel.farm",
+    "try": "https://www.youtube.com/embed/iBiXqV6uElc?si=1IkgntSgWk-WEdFg",
+    "date": "11/04/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 41,
+    "url": "https://wattenberger.com/thoughts/llms-as-a-tool-for-thought",
+    "creation": "LLMs are a tool for thought",
+    "try": "https://www.youtube.com/embed/spNr6T07UWQ?si=FpNmkrQmLJRQMqTC",
+    "date": "11/04/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 42,
+    "url": "https://oasis.decart.ai/",
+    "creation": "Oasis",
+    "try": "https://www.youtube.com/embed/Q8EMNGclPiw?si=H3ad0d1IyvNrF3CK",
+    "date": "11/03/2024",
+    "buildername": "jim"
+  },
+  {
+    "rank": 43,
+    "url": "https://githubelo.web.app/",
+    "creation": "GitHub Elo",
+    "try": "https://www.youtube.com/embed/SqqgjZ_jzPY?si=WHrF8rt2tcS4jwZw",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 44,
+    "url": "https://thealpha.dev/",
+    "creation": "TheAlpha.dev",
+    "try": "https://www.youtube.com/embed/C8VguLqvXI8?si=G61JOn5nv98Qau0-",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 45,
+    "url": "https://paragraphrewrite.com/",
+    "creation": "Rewrite",
+    "try": "https://www.youtube.com/embed/5Igki29PpLs?si=KIAqQOpjk7K-nPq-",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 46,
+    "url": "https://littlestats.click/",
+    "creation": "Littlestats",
+    "try": "https://www.youtube.com/embed/ftChvGnHT3U?si=V7m-sWd7sZB2Owdp",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 47,
+    "url": "https://www.mrrtracker.app/",
+    "creation": "MRRTracker",
+    "try": "https://www.youtube.com/embed/s4Xl13KqGP0?si=D_G9h0fEQ9lhMbxc",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 48,
+    "url": "https://www.homeoffounders.com/",
+    "creation": "HomeOfFounders",
+    "try": "https://www.youtube.com/embed/Ic9ayIO9Uo8?si=2kcz84sq6KayRVb_",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 49,
+    "url": "https://www.shadcn-form.com/",
+    "creation": "Shadcn Form Builder",
+    "try": "https://www.youtube.com/embed/zRD7tOGRqqA?si=k9uRqgjUoqP6Y3C8",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 50,
+    "url": "https://snapfiddle.ai/",
+    "creation": "Snapfiddle",
+    "try": "https://www.youtube.com/embed/3DfwfpMsGRY?si=Gl8qlE4_pPJhFwLn",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 51,
+    "url": "https://talktastic.com/",
+    "creation": "TalkTastic",
+    "try": "https://www.youtube.com/embed/GJbn3QoyIec?si=Wi47tBgzIgH4HHd7",
+    "date": "11/02/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 2,
+    "url": "https://news.pub",
+    "creation": "BuilderNews",
+    "try": "https://www.youtube.com/embed/obmqd6OJA8s?si=CoCvGZL9-i1MXi0E",
+    "date": "11/01/2024",
+    "buildername": "jim"
+  },
+  {
+    "rank": 52,
+    "url": "https://paper.wf/binarycat/rtp",
+    "creation": "Reliable Transfer Protocol",
+    "try": "https://www.youtube.com/embed/0-snH3SNjU8?si=5WV3ErmwtdAcfjWG",
+    "date": "10/31/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 53,
+    "url": "https://git-roasted.com/",
+    "creation": "GitRoasted",
+    "try": "https://www.youtube.com/embed/a5A2sEB4SUc?si=a-76Eg0LPPyqk8rh",
+    "date": "10/31/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 54,
+    "url": "https://www.shotscout.org",
+    "creation": "ShotScout",
+    "try": "https://www.loom.com/embed/4637f9ef19fd42f8b05223d23123f3fe?sid=d59d04b2-5629-472c-bcd1-3870ae165061",
+    "date": "10/31/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 1,
+    "url": "https://www.anky.bot/",
+    "creation": "anky.bot",
+    "try": "https://www.youtube.com/embed/E0Tfus_KvvQ?si=kj63LJpMiNWR1-62",
+    "date": "10/31/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 55,
+    "url": "x.com",
+    "creation": "test",
+    "try": "https://youtube.com/shorts/RFCE7fo7kOM",
+    "date": "10/30/2024",
+    "buildername": "bardic"
+  },
+  {
+    "rank": 56,
+    "url": "https://www.thememeco.com/",
+    "creation": "TheMemeCo",
+    "try": "https://www.loom.com/embed/17d96d53a6534830ae01138cf2b8ffd2?sid=5eadc968-72eb-4d11-8db0-e2ea21ee9313",
+    "date": "10/28/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 57,
+    "url": "https://aquaware.cloud/",
+    "creation": "Aquaware",
+    "try": "https://www.loom.com/embed/3e0de3dc94a748eca18e3ae31c1cbd08?sid=0c974770-da4a-4cde-be3a-423146438f4e",
+    "date": "10/28/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 58,
+    "url": "https://github.com/Dyslex7c/Decentralized-Twitter",
+    "creation": "Decentralized Twitter",
+    "try": "https://www.loom.com/embed/8782c97d46a84314818f02eeb2b5b31a?sid=ccec7c1b-dbde-45b1-bdf2-49dd4d5ba8bc",
+    "date": "10/27/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 59,
+    "url": "https://corevalueswizard.com/",
+    "creation": "Core Values Wizard",
+    "try": "https://www.youtube.com/embed/5MsTLTod-sk?si=1GBBPNaApL1N3wFn",
+    "date": "10/27/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 60,
+    "url": "https://www.histruct.com/",
+    "creation": "HiStruct",
+    "try": "https://www.youtube.com/embed/6-mXtaQKwTA?si=CJZtIGeifDAyyXIx",
+    "date": "10/25/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 61,
+    "url": "https://cornhub.website/",
+    "creation": "Cornhub",
+    "try": "https://www.youtube.com/watch?v=AG4rkpdmBMM",
+    "date": "10/25/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 62,
+    "url": "https://hnup.date/",
+    "creation": "HN Update",
+    "try": "https://www.loom.com/embed/9e8b8d454ee14873883b4e5e1cca9579?sid=a73ce53c-bef9-4897-b72e-5b7eafa946e3",
+    "date": "10/20/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 63,
+    "url": "https://samtxt.samrawal.com/",
+    "creation": "sam.txt",
+    "try": "https://www.youtube.com/embed/qh2mq0KJMsw?si=K3eoDPngkYKkQg6l",
+    "date": "10/20/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 64,
+    "url": "https://foundersfund.com",
+    "creation": "FoundersFund.com",
+    "try": "https://www.youtube.com/embed/6Orxo69B5bE?si=8EGKo6XbK7cwvxA-",
+    "date": "10/20/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 65,
+    "url": "https://a16z.com",
+    "creation": "a16z.com",
+    "try": "https://www.youtube.com/embed/O_wPL9atrJs?si=d1viIqwoIrGoMnnk",
+    "date": "10/20/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 66,
+    "url": "https://riff.cc/",
+    "creation": "Riff.cc",
+    "try": "https://www.youtube.com/embed/aNHFMt1x3wQ?si=TaNnHcpHqYby3aMV",
+    "date": "10/20/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 67,
+    "url": "https://airtable.com/",
+    "creation": "Airtable",
+    "try": "https://www.loom.com/embed/9322b62f57814403844d29147811ac8e?sid=b018e721-287d-44c8-85fe-3a20f82d66fa",
+    "date": "10/16/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 68,
+    "url": "https://floss.fund/blog/announcing-floss-fund/",
+    "creation": "The FLOSS Fund",
+    "try": "https://www.youtube.com/embed/4BH8DRXwVRw?si=kejHy1r-cIzzv6XP",
+    "date": "10/16/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 69,
+    "url": "https://aisearchwatch.com/demo/YCombinator/2024-10-09-v1-4dc5370a2e9cbd7b/competitors/index.html",
+    "creation": "AISearchWatch.com",
+    "try": "https://www.loom.com/embed/4f11ab7349854fc6b8e77209d50e2d80?sid=76066538-30ea-4e48-bbb8-cbfb6c83c138",
+    "date": "10/15/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 70,
+    "url": "https://founderpal.ai/elevator-pitch-generator",
+    "creation": "Elevator Pitch Generator",
+    "try": "https://www.loom.com/embed/39ac6fb72b974ad0b1663cd4db81230d?sid=c4648a34-61a0-4e19-ad83-e8e650d08a92",
+    "date": "10/15/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 71,
+    "url": "https://readtxt.in",
+    "creation": "Readtxt.in",
+    "try": "https://www.loom.com/embed/cf58f667a2314350bd32e40a0d206c35?sid=3dcc2923-4334-4c95-95af-6b91a064ac26",
+    "date": "10/15/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 72,
+    "url": "https://www.moneyisfunny.co/",
+    "creation": "Money is Funny Tech Pitch Roast Show",
+    "try": "https://www.youtube.com/embed/StZ3T3HX8fE?si=vjOLCNasINsJw3bS",
+    "date": "10/15/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 73,
+    "url": "https://goglobal.world",
+    "creation": "Go Global World",
+    "try": "https://www.youtube.com/embed/Sme7XyjpvJI?si=iikUUp0HhCkBok63",
+    "date": "10/15/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 74,
+    "url": "https://dingboard.com",
+    "creation": "Dingboard",
+    "try": "https://www.youtube.com/embed/cgkwMV26eOE?si=GOijQjix6Cvb3Wpb",
+    "date": "10/14/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 75,
+    "url": "https://developers.zoom.us/docs/api/",
+    "creation": "Zoom API",
+    "try": "https://www.youtube.com/embed/Jt8iRz7phJs?si=Ne2HZzxXLiuMl4df",
+    "date": "10/13/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 76,
+    "url": "https://www.outspeed.com/",
+    "creation": "Outspeed AI",
+    "try": "https://www.youtube.com/embed/BzrTyXGT99o?si=6DfOAqd9QokawFMZ",
+    "date": "10/13/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 77,
+    "url": "https://wordware.ai/",
+    "creation": "Wordware AI",
+    "try": "https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX",
+    "date": "10/13/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 78,
+    "url": "https://omniscience.tech/",
+    "creation": "OmniScience",
+    "try": "https://www.youtube.com/embed/jtiyMkJ_Nwc?si=4ss14nGCrpY_NcZt",
+    "date": "10/13/2024",
+    "buildername": "breck"
+  },
+  {
+    "rank": 79,
     "url": "https://www.rugu.dev/en/blog/plain-text/",
     "creation": "Reading \"Lessons from Plain Text\"",
     "try": "https://www.youtube.com/embed/rx7nv6R5Rww?si=tuR6lhGHbNW6BYUa",
@@ -8,7 +592,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 8,
+    "rank": 80,
     "url": "https://github.com/feelamee/sso",
     "creation": "Small String Optimizer",
     "try": "https://www.youtube.com/embed/tQXoCbUhWOQ?si=Zc-Uo4pF6QaX2hyV",
@@ -16,7 +600,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 9,
+    "rank": 81,
     "url": "https://www.mycheekybot.com/",
     "creation": "MyCheekyBot",
     "try": "https://www.youtube.com/embed/bHPDOTg99_E?si=7PM0HvpuRUbyBr4D",
@@ -24,7 +608,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 10,
+    "rank": 82,
     "url": "https://www.coffeespace.com/",
     "creation": "CoffeeSpace Cofounder Matching",
     "try": "https://www.youtube.com/embed/JTfd4uFZpi0?si=aGpEz6bLBBFy-v1a",
@@ -32,7 +616,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 11,
+    "rank": 83,
     "url": "https://cartesia.ai/",
     "creation": "Cartesia.AI Voice Generator",
     "try": "https://www.youtube.com/embed/unqBYZcMBQ0?si=LF35TJ3FfIHU4y9v",
@@ -40,7 +624,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 12,
+    "rank": 84,
     "url": "https://spectrum-visualizer-demo.vercel.app/",
     "creation": "Spectrum Visualizer",
     "try": "https://www.youtube.com/embed/NOFJl6h3BuM?si=ICHPvXrGr2QglDvv",
@@ -48,7 +632,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 13,
+    "rank": 85,
     "url": "https://indexely.com/",
     "creation": "Indexely Website Monitoring",
     "try": "https://www.youtube.com/embed/vxdaWsO8V4M?si=3zHAVkl9a8HU7Z9Z",
@@ -56,7 +640,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 14,
+    "rank": 86,
     "url": "https://dayoneventures.com/",
     "creation": "day one ventures",
     "try": "https://www.youtube.com/embed/nPCbilmvzT0?si=wazalVS1VUDKxNRY",
@@ -64,7 +648,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 15,
+    "rank": 87,
     "url": "https://filtergrade.com/",
     "creation": "FilterGrade",
     "try": "https://www.youtube.com/embed/HWVEt_XlnBY?si=lkICiwY_G07UBvil",
@@ -72,7 +656,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 16,
+    "rank": 88,
     "url": "https://htmlforpeople.com/",
     "creation": "HTML for people",
     "try": "https://www.youtube.com/embed/j_A2egmsT0g?si=0iamrS9dDK2OCGAr",
@@ -80,7 +664,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 17,
+    "rank": 89,
     "url": "https://embra.ai/",
     "creation": "Embra AI",
     "try": "https://www.youtube.com/embed/ykRLDxklAlg?si=flUSfi68qPwINrXs",
@@ -88,7 +672,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 18,
+    "rank": 90,
     "url": "https://www.lans.app/",
     "creation": "LANS",
     "try": "https://www.youtube.com/embed/o5z5hdZfUGc?si=1dDAZN-Q-gzqMCvE",
@@ -96,7 +680,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 19,
+    "rank": 91,
     "url": "https://www.ranzey.com/generators/bart/index.html",
     "creation": "Bart Simpson Chalkboard Generator",
     "try": "https://www.youtube.com/embed/iHOdMWU5zmo?si=ko-NOFTZBJshdmYi",
@@ -104,7 +688,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 20,
+    "rank": 92,
     "url": "https://bloombergbeta.com/",
     "creation": "BloombergBeta.com",
     "try": "https://www.youtube.com/embed/2WXLMWqsyi0?si=8FMJvRHM4W-cqEJc",
@@ -112,7 +696,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 21,
+    "rank": 93,
     "url": "https://marknadal.com/",
     "creation": "MarkNadal.com",
     "try": "https://www.youtube.com/embed/DvX-PH0jFtw?si=z1aPxG0zx1ccg5Tb",
@@ -120,7 +704,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 22,
+    "rank": 94,
     "url": "https://deno.com/2",
     "creation": "Deno 2",
     "try": "https://www.youtube.com/embed/1jeg8QBZ8RE?si=Wf3CZiGC6phxEk8F",
@@ -128,7 +712,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 23,
+    "rank": 95,
     "url": "https://lab.aizastudio.com/perfectpitch",
     "creation": "Perfect Pitch",
     "try": "https://www.youtube.com/embed/G4yu56_s0BI?si=kwPvz5Ge_swujLG2",
@@ -136,7 +720,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 24,
+    "rank": 96,
     "url": "https://github.com/CapSoftware/Cap",
     "creation": "Cap",
     "try": "https://www.youtube.com/embed/KfL4yLixcGA?si=XKXlJZRiOp3ARasw",
@@ -144,7 +728,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 25,
+    "rank": 97,
     "url": "https://docs.deno.com/api/node/",
     "creation": "Deno Documentation",
     "try": "https://www.youtube.com/embed/VGAVtvGBD1s?si=sNNPDRM_sydmxykr",
@@ -152,7 +736,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 26,
+    "rank": 98,
     "url": "https://douwe.com/projects/freshnews",
     "creation": "freshnews",
     "try": "https://www.youtube.com/embed/P_0yqTFPzxU?si=fy1wDEEz81u49iE6",
@@ -160,7 +744,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 27,
+    "rank": 99,
     "url": "https://twocents.site/",
     "creation": "TwoCents.site",
     "try": "https://www.loom.com/embed/c8430de282694defa75ae041ae3ee74a?sid=4c3ff203-38b3-4549-b644-4d634d49e644",
@@ -168,7 +752,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 28,
+    "rank": 100,
     "url": "https://albertotaiuti.com/",
     "creation": "AlbertoTaiuti.com",
     "try": "https://www.loom.com/embed/8d6c80e4659344f09e274238dce65962?sid=ac8fc494-86e0-4a3a-826f-3510f215178d",
@@ -176,7 +760,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 29,
+    "rank": 101,
     "url": "https://www.operatingsystem.io/",
     "creation": "OperatingSystem.io",
     "try": "https://www.youtube.com/embed/QQz8mkYQ41I?si=TWiI8bvzx3yOQiGQ",
@@ -184,7 +768,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 30,
+    "rank": 102,
     "url": "https://github.com/fsouza/prettierd",
     "creation": "Prettierd, Prettier, and JSPrettier",
     "try": "https://www.youtube.com/embed/sdxeLDc2O9k?si=TsLAInXmla9XRDa5",
@@ -192,7 +776,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 31,
+    "rank": 103,
     "url": "https://ghost.org/",
     "creation": "Ghost",
     "try": "https://www.youtube.com/embed/3MzPwY6kotU?si=7eJTprFu-sjb8lsd",
@@ -200,7 +784,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 32,
+    "rank": 104,
     "url": "https://comm.app/",
     "creation": "Comm",
     "try": "https://www.youtube.com/embed/drYSpF2pBsM?si=k8Q3CEOhEFuYVzpS",
@@ -208,7 +792,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 33,
+    "rank": 105,
     "url": "https://chat.openai.com/",
     "creation": "ChatGPT Canvas",
     "try": "https://www.youtube.com/embed/jx9LVsryC50?si=P0ye-01HlgLJcJvy",
@@ -216,7 +800,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 34,
+    "rank": 106,
     "url": "https://rejectedbyyc.com/",
     "creation": "RejectedByYC",
     "try": "https://www.youtube.com/embed/DMxpr1SKNeA?si=tZcDdEotu5WVQaN6",
@@ -224,7 +808,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 35,
+    "rank": 107,
     "url": "https://www.trykeet.com",
     "creation": "Keet",
     "try": "https://www.loom.com/embed/d92ed08b415b4cc3a36f83eed045fd25?sid=4f81a4ec-60c7-4e1f-86ca-c453c38aabe3",
@@ -232,7 +816,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 36,
+    "rank": 108,
     "url": "https://www.hestus.co/",
     "creation": "Hestus",
     "try": "https://www.loom.com/embed/68ad87a7f6894aa7ad53b5ae5fc6a0be?sid=99eb0ee5-6485-49e7-9c45-ee695d897cdc",
@@ -240,7 +824,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 37,
+    "rank": 109,
     "url": "https://coworkcoffee.com",
     "creation": "Cowork Coffee",
     "try": "https://www.youtube.com/embed/ItNfgj0ADI4?si=Q2WihMUNTM_2A2fw",
@@ -248,7 +832,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 38,
+    "rank": 110,
     "url": "https://rysana.com/",
     "creation": "Rysana",
     "try": "https://www.youtube.com/embed/MMiTBiTi64A?si=fE4BhncABURQIjKI",
@@ -256,7 +840,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 39,
+    "rank": 111,
     "url": "https://www.leahculver.com/",
     "creation": "LeahCulver.com",
     "try": "https://www.youtube.com/embed/6Wgsu4TxTdM?si=T46UPR0Mth-TKBIE",
@@ -264,7 +848,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 40,
+    "rank": 112,
     "url": "https://www.luxcapital.com/",
     "creation": "Lux Capital",
     "try": "https://www.loom.com/embed/97609c0784fd4b30a430b3c6eccdee60?sid=f69e8d15-69ca-4801-b22c-8ca5e1cd3c1e",
@@ -272,7 +856,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 41,
+    "rank": 113,
     "url": "https://humankind.place/",
     "creation": "Humankind Candles",
     "try": "https://www.youtube.com/embed/9YwbVUukq3k?si=7vEULRm1rTbZUO4z",
@@ -280,7 +864,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 42,
+    "rank": 114,
     "url": "https://www.rogodata.com",
     "creation": "Rogo",
     "try": "https://www.loom.com/embed/7f4750b4a3974eb7b50ec14a8754b1ba?sid=2e16d6e7-66c7-4a21-a697-7300e41dd24d",
@@ -288,7 +872,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 43,
+    "rank": 115,
     "url": "https://haystackeditor.com/",
     "creation": "Haystack",
     "try": "https://www.loom.com/embed/0f3a1d6c89ea4f289cf1a2ec3e6ebb77?sid=1c1f9fc9-d6ae-4fef-a2e5-578db7195917",
@@ -296,7 +880,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 44,
+    "rank": 116,
     "url": "https://mitohealth.com/",
     "creation": "Mito Health",
     "try": "https://www.youtube.com/embed/SIVlWNR_E5E?si=NvlzOkLI4t5t9RKI",
@@ -304,7 +888,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 45,
+    "rank": 117,
     "url": "https://actionbase.co",
     "creation": "ActionBase",
     "try": "https://www.loom.com/embed/7560c4f4550143818731d4838d06138f?sid=e4f4f2bf-93dc-476c-b355-e0411e36aace",
@@ -312,7 +896,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 46,
+    "rank": 118,
     "url": "https://github.com/twny/genesis",
     "creation": "Genesis Game Engine",
     "try": "https://www.loom.com/embed/5c2a8131254d4e54b85b303b6bd0fe40?sid=341ba4ce-5d83-4149-a5d4-2526afbbae71",
@@ -320,7 +904,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 47,
+    "rank": 119,
     "url": "https://infinilearn.com/",
     "creation": "Infinilearn",
     "try": "https://www.loom.com/embed/0b238e3db7f541b68d94fd4014c6ce14?sid=2df914b6-0f12-407c-9ad3-ae0150c6266b",
@@ -328,7 +912,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 48,
+    "rank": 120,
     "url": "https://paulgraham.com/when.html",
     "creation": "When To Do What You Love",
     "try": "https://www.loom.com/embed/9ac3f3b85fd94ea9ad5a880503a17eab?sid=b15d3378-1893-486d-ba15-9bee2a319223",
@@ -336,7 +920,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 49,
+    "rank": 121,
     "url": "https://storia.ai/",
     "creation": "Storia AI",
     "try": "https://www.loom.com/embed/91eeeef1b3db437ea60418daa1aadf1a?sid=c446f795-2ace-4652-abd1-a4d84d361158",
@@ -344,7 +928,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 50,
+    "rank": 122,
     "url": "https://www.codeviz.ai/",
     "creation": "CodeViz",
     "try": "https://www.loom.com/embed/aab68abb578e4516bff9472c6c472fcd?sid=0d3508af-571b-4448-9fec-48f62dd0a1fe",
@@ -352,7 +936,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 51,
+    "rank": 123,
     "url": "https://chianglab.bio/2024/09/26/spatial-technologies-of-the-future/",
     "creation": "Spatial technologies of the future",
     "try": "https://www.loom.com/embed/d9ad5161724d494090576a927dc5fcb8?sid=c54f8003-5dbc-40ab-b353-455653132ffb",
@@ -360,7 +944,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 52,
+    "rank": 124,
     "url": "https://www.afterfeedback.com/",
     "creation": "The Feedback Loop",
     "try": "https://www.youtube.com/embed/AJSujlcDJXw?si=5eHP4KihMMQl6pY5",
@@ -368,7 +952,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 53,
+    "rank": 125,
     "url": "https://www.arcade.ai/",
     "creation": "Arcade.ai: Turn your thoughts into things",
     "try": "https://www.youtube.com/embed/LEpmUSCdAEc?si=cOBug8LUp_yolQpN",
@@ -376,7 +960,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 54,
+    "rank": 126,
     "url": "https://www.youtube.com/@keeptalkingpod",
     "creation": "Keep Talking Newsletter",
     "try": "https://www.loom.com/embed/8b783e9fe5b34a34b7b37d089eb71e9c?sid=62fd93a6-1025-44d7-973d-3936289db13d",
@@ -384,7 +968,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 55,
+    "rank": 127,
     "url": "https://www.snowpilot.com/",
     "creation": "Snowpilot",
     "try": "https://www.loom.com/embed/d789de706c334cbfa4904ce862dfc46b?sid=ec558a6c-451a-4a92-89fa-ae2578129602",
@@ -392,7 +976,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 56,
+    "rank": 128,
     "url": "https://www.synnaxlabs.com/",
     "creation": "Synnax Labs",
     "try": "https://www.loom.com/embed/b4e86574742a4882b18113143c942bae?sid=c9f91ea1-e125-4c37-aeae-2e56adfff1a0",
@@ -400,7 +984,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 57,
+    "rank": 129,
     "url": "https://launchgrid.blitlabs.com/",
     "creation": "Launchgrid – Explore Today's Launches Across Product Hunt and Show HN",
     "try": "https://www.loom.com/embed/60dd990025564138b206a13f80441e7f?sid=f4f03bce-05e9-4bdf-a84c-1c2bb3ed5442",
@@ -408,7 +992,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 58,
+    "rank": 130,
     "url": "https://www.habox.com/",
     "creation": "Habox",
     "try": "https://www.youtube.com/embed/AD6NSwHs7OU?si=ML7JXVZwdjMImoa9",
@@ -416,7 +1000,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 59,
+    "rank": 131,
     "url": "https://softwareengineeringhandbook.com/",
     "creation": "Software Engineering Handbook – A Guide to Engineering, Life, and More",
     "try": "https://www.loom.com/embed/9f59e3fc516c4a5fb7e82dcf02901104?sid=b1f3652c-a0ee-4a8d-b147-985b6eddab90",
@@ -424,7 +1008,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 60,
+    "rank": 132,
     "url": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/",
     "creation": "Why I still blog after 15 years",
     "try": "https://www.youtube.com/embed/UF7fjvE_Lco?si=DIrTdUOBao4AKlzH",
@@ -432,7 +1016,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 61,
+    "rank": 133,
     "url": "https://supergrow.ai",
     "creation": "Supergrow: Grow your audience on LinkedIn",
     "try": "https://www.youtube.com/embed/qvAJnxqav1I?si=ZpSN3X2j0OO6CN2d",
@@ -440,7 +1024,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 62,
+    "rank": 134,
     "url": "https://clipchamp.com/",
     "creation": "Clip Champ",
     "try": "https://www.youtube.com/embed/kx5WoMB1xXI?si=4HKIEIPzO0lubr1V",
@@ -448,7 +1032,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 63,
+    "rank": 135,
     "url": "https://github.com/torrentg/expr",
     "creation": "An expression parser supporting multiple types",
     "try": "https://www.youtube.com/embed/DS5MXJSGgHM?si=s0CMTFVwWg7oGuAm",
@@ -456,7 +1040,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 64,
+    "rank": 136,
     "url": "https://json4u.com",
     "creation": "JSON For You – Visualize JSON in graph or table views",
     "try": "https://www.youtube.com/embed/ERpyG_f2gJE?si=ItqT1mPweRQZJ75h",
@@ -464,15 +1048,15 @@
     "buildername": "breck"
   },
   {
-    "rank": 65,
-    "url": "https://news.pub/",
+    "rank": 2,
+    "url": "https://news.pub",
     "creation": "BuilderNews",
-    "try": "https://www.loom.com/share/9629c883f32b4fa58af29d7a43c3ba27?sid=b980cc28-b225-4e3e-8b3d-7790e376d88e",
+    "try": "https://www.loom.com/embed/9629c883f32b4fa58af29d7a43c3ba27?sid=697cd667-0b1b-4ffe-a3cb-b42242907bf0",
     "date": "9/23/2024",
     "buildername": "hassam"
   },
   {
-    "rank": 66,
+    "rank": 137,
     "url": "https://obsess.life/",
     "creation": "GitHub-style heatmap for habit tracking",
     "try": "https://www.youtube.com/embed/Kd0_GsU0hV0?si=BiPyGvOaEpioejr9",
@@ -480,7 +1064,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 67,
+    "rank": 138,
     "url": "https://www.dictaphone.io/",
     "creation": "Transcribe Audio Files for Free in Seconds",
     "try": "https://www.youtube.com/embed/nbHNcJXNzkY?si=JN5f3sXUwsOwariZ",
@@ -488,7 +1072,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 68,
+    "rank": 139,
     "url": "https://www.rapidreview.cc/",
     "creation": "I made a small platform to collect feedback",
     "try": "https://www.youtube.com/embed/AvdWTwrfysU?si=3ebqups1uRMcg5Fp",
@@ -496,7 +1080,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 1,
+    "rank": 3,
     "url": "https://ebookany.com/",
     "creation": "A tool to easily convert any web page into an eBook",
     "try": "https://www.youtube.com/embed/u2_r_44bg5c?si=5wBkAog7YyJ2nfAI",
@@ -504,7 +1088,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "url": "https://nuenki.app/",
     "creation": "Nuenki - Learn a language while you browse the web",
     "try": "https://www.loom.com/embed/ff5edd3d420a47aebbd2f1d1b0347405?sid=bfd01d37-08dd-4207-86b0-3fb702fbf4c7",
@@ -512,7 +1096,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "url": "https://jetup.io/exclusive/",
     "creation": "Real Senior Dev from $4.9/HR",
     "try": "https://www.youtube.com/embed/sKDvgvb7jC8?si=t7zQfsOLf2AU0RFs",
@@ -520,7 +1104,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "url": "https://www.dirtcheapgold.com/",
     "creation": "Dirt Cheap Gold – Find the cheapest gold prices",
     "try": "https://www.loom.com/embed/650a5709c41b4a1a878f49e22eecb4c8?sid=94a44829-bb12-4a47-9d16-a9bfdce16eb0",
@@ -528,7 +1112,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "url": "https://unswt.com/",
     "creation": "Unswt – Free AI Sugar Tracker Using Meal Photos",
     "try": "https://www.youtube.com/embed/XKD4U-OVpU0?si=jBXuguN5qr-zDq5o",
@@ -536,7 +1120,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 69,
+    "rank": 140,
     "url": "https://x.com/staysaasy/status/1837812645946126560",
     "creation": "If AI is helping people code better, why aren't products getting better?",
     "try": "https://www.youtube.com/embed/KhDvFNefvuU?si=xWWtKewSZe3V1j7i",
@@ -544,7 +1128,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 70,
+    "rank": 141,
     "url": "https://classysoftware.io/chat-analysis/",
     "creation": "A tool to analyze Hacker News sentiment on any term in seconds",
     "try": "https://www.youtube.com/embed/2eac5XZesgA?si=NDql-yhNEJIH6ykb",
@@ -552,7 +1136,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "url": "https://www.dirtcheapgold.com/",
     "creation": "Dirt Cheap Gold – Find the cheapest gold prices",
     "try": "https://www.youtube.com/embed/thCLXuZvinM?si=PVXWAEHKcl3uRRtl",
@@ -560,7 +1144,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 71,
+    "rank": 142,
     "url": "https://laike9m.com/blog/no-one-builds-in-public,160/",
     "creation": "It's probably time to rethink \"Building in public\"",
     "try": "https://www.youtube.com/embed/10SIY3jEA6o?si=-6WwfJddlYvvy9Qk",
@@ -568,7 +1152,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "url": "https://time-flies.koenvangilst.nl/",
     "creation": "Time Flies",
     "try": "https://www.loom.com/embed/0a1e86e9725c49c4945169e4da219a8a?sid=22426841-de3f-47f5-86a1-fb537432a438",
@@ -576,7 +1160,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "url": "https://unswt.com/",
     "creation": "Unswt – Free AI Sugar Tracker Using Meal Photos",
     "try": "https://www.loom.com/embed/28059cba3a1045d0bfb20651d53c2f18?sid=72530eaf-0bda-4665-acfa-7c48131c08c5",
@@ -584,7 +1168,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "url": "https://jetup.io/exclusive/",
     "creation": "Real Senior Dev from $4.9/HR",
     "try": "https://www.loom.com/embed/379baab086cb445a9422d50cb36e05ee?sid=8cfb48fa-88d1-417e-8e48-c3e051788e5c",
@@ -592,7 +1176,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "url": "https://nuenki.app/",
     "creation": "Nuenki - Learn a language while you browse the web",
     "try": "https://www.loom.com/embed/e65c7323b3cd4f03a89ceb9f199c68b7?sid=5808f1f4-2ee4-49df-96cb-97b738f3053a",
@@ -600,7 +1184,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 1,
+    "rank": 3,
     "url": "https://ebookany.com/",
     "creation": "A tool to easily convert any web page into an eBook",
     "try": "https://www.loom.com/embed/8a62fe079f9948818156006468f800b3?sid=14f5d67c-37f6-4467-bc2b-8c73ce30ffff",
@@ -608,7 +1192,7 @@
     "buildername": "steph"
   },
   {
-    "rank": 72,
+    "rank": 143,
     "url": "https://youtubetranscriptoptimizer.com/",
     "creation": "YouTube Transcript Optimizer – Turn Videos into Polished Documents",
     "try": "https://www.loom.com/embed/b863ae3195d54f8cbe1c9931c8d96b0e?sid=11529b69-02c3-46cf-ae8f-346bb0c19f6b",
@@ -616,7 +1200,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 73,
+    "rank": 144,
     "url": "https://github.com/g-udi/gaudiBar.widget",
     "creation": "Craft Your Perfect Dev Environment",
     "try": "https://www.loom.com/embed/e02ff9d493c3423c8f6a986711ca7c88?sid=f4c15a3a-404a-45bd-851e-5917d8f66bf9",
@@ -624,7 +1208,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 74,
+    "rank": 145,
     "url": "https://www.gamesinprogress.com/",
     "creation": "GamesInProgress – Discover and follow indie game developers",
     "try": "https://www.loom.com/embed/b6d3309dffe942c9bf5093b64323196d?sid=9148c264-4e0a-44f7-ba5f-0efcb00029d7",
@@ -632,7 +1216,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 75,
+    "rank": 146,
     "url": "https://aimathgpt.forit.ai/",
     "creation": "I made a O1 AI math that turns F's into A+'s overnight",
     "try": "https://www.loom.com/embed/85e585a96bc44f5995bbca790191c7c0?sid=57ccade0-d54f-448c-8cb6-f1c735e7e099",
@@ -640,7 +1224,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 76,
+    "rank": 147,
     "url": "https://hn-pm.me/login",
     "creation": "Private Messages for Hacker News Builders",
     "try": "https://www.loom.com/embed/064bd4b9865845e9a055f7138dfc1a3d?sid=6bf557aa-f9ba-48bd-a213-8820dd523cc2",
@@ -648,7 +1232,7 @@
     "buildername": "breck"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "url": "https://time-flies.koenvangilst.nl/",
     "creation": "Time Flies",
     "try": "https://www.loom.com/embed/2d712cdacc91471d828d9f91ffbdb479?sid=7ea5c983-3d57-4522-ad5d-c89b2a7ca89f",

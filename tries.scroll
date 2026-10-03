@@ -4,6 +4,444 @@ tries.parsers
 
 // Put new tries up top
 
+url https://demo.exa.ai/deepseekchat
+creation Exa
+try https://x.com/breckyunits/status/1885087298599137326
+date 1/30/2025
+buildername breck
+
+url https://corca.app
+creation corca
+try https://www.loom.com/embed/45fa6d356fd9404aa15b782f37f53d28?sid=a7107df0-b688-47e2-bba0-ee0e565c1fbe
+date 1/30/2025
+buildername breck
+
+url https://codeberg.org/samedev/colider
+creation colider
+try https://www.loom.com/embed/875d24a5edd144bbb6209a2540d9f9db?sid=6055fac0-28c1-4dc5-af15-07e1694ac579
+date 1/29/2025
+buildername breck
+
+url https://find.fl1nt.dev/
+creation website finder
+try https://www.loom.com/embed/f98df53a275e47178913ed55fc7b98da?sid=18a84db7-e6f6-4f09-af4c-ba23218a1c44
+date 1/28/2025
+buildername breck
+
+url https://xls.feldera.io/
+creation Feldera
+try https://www.loom.com/embed/a3338372b5cd49b09a69200dc2d23b91?sid=bf3ab8fe-b511-430b-bd7c-4764e076f4f6
+date 1/18/2025
+buildername breck
+
+url https://www.preswald.com/
+creation Preswald
+try https://www.loom.com/embed/cc7a39eaaee3432a9aabfb6f54a708c6?sid=f2433e6f-d1a1-43e9-b38e-c3dac1b3b27c
+date 1/10/2025
+buildername breck
+
+url https://www.talkwithamia.com/
+creation Amia - AI therapist
+try https://www.youtube.com/embed/aL5dE29Vpps?si=5fh_jvH2t7PCzDO5
+date 1/08/2025
+buildername breck
+
+url https://www.rae.chat/
+creation Rae - AI therapist
+try https://www.youtube.com/embed/QCwz4hrobq4?si=vRZt0PdNsKrjtbVp
+date 1/07/2025
+buildername breck
+
+url https://verdex.cc/
+creation Verdex - 3D printing
+try https://www.youtube.com/embed/-q7PmlP1IOo?si=mu88hNR8Y403fRHs
+date 1/07/2025
+buildername breck
+
+url https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html
+creation Categorical Configuration Language
+try https://x.com/breckyunits/status/1876687781009010701
+date 1/07/2025
+buildername breck
+
+url https://galaxybrain.com/
+creation GalaxyBrain
+try https://www.youtube.com/embed/393ZIOeDa9Q?si=PiJQ7Ua_ERJR85qU
+date 1/07/2025
+buildername breck
+
+url https://www.anky.bot/
+creation anky
+try https://www.youtube.com/embed/H-IJyPOwIQ0?si=q3m3_TDlMK4At-MQ
+date 12/18/2024
+buildername breck
+
+url https://computer.tldraw.com/
+creation tldraw computer
+try https://www.youtube.com/embed/lsg6mRoMcjI?si=4yoHDarhVjkS7d95
+date 12/18/2024
+buildername breck
+
+url https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/
+creation What is Entropy?
+try https://www.youtube.com/embed/hu7AW-z3lWw?si=Kp7DIxVF8LyehvMs
+date 12/14/2024
+buildername breck
+
+url https://www.indie.vc/
+creation Indie.vc
+try https://www.loom.com/embed/b715318c683042be8a4bf9a8e8fa84ff?sid=fdc80848-6340-4e44-863f-41b8b938feaa
+date 12/09/2024
+buildername breck
+
+url https://webb.page
+creation Webb.page
+try https://www.youtube.com/embed/knll9Qv1IZs?si=rMb2SospBGTuxiiK
+date 12/09/2024
+buildername breck
+
+url https://dbos.dev/
+creation DBOS
+try https://www.youtube.com/embed/p7i4qOcLbr8?si=ZWDjUHUZuuyuprgY
+date 12/09/2024
+buildername breck
+
+url https://github.com/farcasterxyz/protocol/discussions/207
+creation SnapChain
+try https://www.youtube.com/embed/MLhJRBOqzZw?si=IymPi0F6-iqMioTo
+date 12/06/2024
+buildername breck
+
+url https://github.com/viktorchernev/DescribeCompiler
+creation Describe Markup Language
+try https://www.youtube.com/embed/-L6V9Bvdvvg?si=FVIUgJZBgj8HRumV
+date 12/04/2024
+buildername breck
+
+url https://giffium.com/
+creation giffium.com
+try https://www.youtube.com/watch?v=Lupsdqjib48&t=624s
+date 11/30/2024
+buildername breck
+
+url https://openfabric.dev/
+creation OpenFabric.ai
+try https://www.youtube.com/embed/eMuA5s-eFTQ?si=V8X6-SpoWfPwFMAA
+date 11/27/2024
+buildername breck
+
+url https://www.silentpoems.net
+creation SilentPoems.net
+try https://www.youtube.com/embed/24jjvAhEBCQ?si=BE3MZud3I5wShWiN
+date 11/26/2024
+buildername breck
+
+url https://www.steveruiz.me
+creation Steveruiz.me
+try https://www.loom.com/embed/656b6e7b627a4663be4eb6b9afe6ac73?sid=7e315089-98cd-4aeb-8fb6-2c50278d0177
+date 11/24/2024
+buildername breck
+
+url https://read.cv
+creation Read.cv
+try https://www.youtube.com/embed/VLaYVc2g1Js?si=u-89rvg39xcHl3sB
+date 11/18/2024
+buildername breck
+
+url https://memelord.tech/
+creation Memelord
+try https://www.youtube.com/embed/ta0bXAb35Pc?si=TY6kepcAB4axKLTb
+date 11/16/2024
+buildername breck
+
+url https://codemia.io/
+creation Codemia
+try https://www.youtube.com/embed/-RIL2ZPo7g4?si=FchtKx6br_b9y0DI
+date 11/07/2024
+buildername breck
+
+url https://designkitchen.dev/if-not-wordpress-then-what/
+creation If Not Wordpress Then What
+try https://www.youtube.com/embed/ZT1Isxd_dV4?si=RlzKAPT8BsJW0dKY
+date 11/06/2024
+buildername breck
+
+url https://threadsight.xyz/
+creation Threadsight
+try https://www.youtube.com/embed/6wYBenANb-E?si=zJeJdK9IU5rdqONe
+date 11/06/2024
+buildername breck
+
+url https://news.kiwistand.com/
+creation Kiwi News
+try https://www.youtube.com/embed/vT7GjQP9FfI?si=jKugXnrzDeFnBckm
+date 11/06/2024
+buildername breck
+
+url https://quilibrium.com/
+creation Quilibrium
+try https://www.youtube.com/embed/9lmf_ObVpm4?si=QgC7DuTpdIxvImMv
+date 11/06/2024
+buildername breck
+
+url https://vercel.com/
+creation Vercel
+try https://www.loom.com/embed/ca92da66d0964500a5563cc9c25ac8a3?sid=e5057199-3ddb-4e47-ab36-97b72d4f6d43
+date 11/04/2024
+buildername breck
+
+url https://datacommons.org/
+creation Data Commons
+try https://www.youtube.com/embed/0yCULUChQ1w?si=kDTeTk3eIC11WpVe
+date 11/04/2024
+buildername breck
+
+url https://reel.farm
+creation reel.farm
+try https://www.youtube.com/embed/iBiXqV6uElc?si=1IkgntSgWk-WEdFg
+date 11/04/2024
+buildername breck
+
+url https://wattenberger.com/thoughts/llms-as-a-tool-for-thought
+creation LLMs are a tool for thought
+try https://www.youtube.com/embed/spNr6T07UWQ?si=FpNmkrQmLJRQMqTC
+date 11/04/2024
+buildername breck
+
+url https://oasis.decart.ai/
+creation Oasis
+try https://www.youtube.com/embed/Q8EMNGclPiw?si=H3ad0d1IyvNrF3CK
+date 11/03/2024
+buildername jim
+
+url https://githubelo.web.app/
+creation GitHub Elo
+try https://www.youtube.com/embed/SqqgjZ_jzPY?si=WHrF8rt2tcS4jwZw
+date 11/02/2024
+buildername breck
+
+url https://thealpha.dev/
+creation TheAlpha.dev
+try https://www.youtube.com/embed/C8VguLqvXI8?si=G61JOn5nv98Qau0-
+date 11/02/2024
+buildername breck
+
+url https://paragraphrewrite.com/
+creation Rewrite
+try https://www.youtube.com/embed/5Igki29PpLs?si=KIAqQOpjk7K-nPq-
+date 11/02/2024
+buildername breck
+
+url https://littlestats.click/
+creation Littlestats
+try https://www.youtube.com/embed/ftChvGnHT3U?si=V7m-sWd7sZB2Owdp
+date 11/02/2024
+buildername breck
+
+url https://www.mrrtracker.app/
+creation MRRTracker
+try https://www.youtube.com/embed/s4Xl13KqGP0?si=D_G9h0fEQ9lhMbxc
+date 11/02/2024
+buildername breck
+
+url https://www.homeoffounders.com/
+creation HomeOfFounders
+try https://www.youtube.com/embed/Ic9ayIO9Uo8?si=2kcz84sq6KayRVb_
+date 11/02/2024
+buildername breck
+
+url https://www.shadcn-form.com/
+creation Shadcn Form Builder
+try https://www.youtube.com/embed/zRD7tOGRqqA?si=k9uRqgjUoqP6Y3C8
+date 11/02/2024
+buildername breck
+
+url https://snapfiddle.ai/
+creation Snapfiddle
+try https://www.youtube.com/embed/3DfwfpMsGRY?si=Gl8qlE4_pPJhFwLn
+date 11/02/2024
+buildername breck
+
+url https://talktastic.com/
+creation TalkTastic
+try https://www.youtube.com/embed/GJbn3QoyIec?si=Wi47tBgzIgH4HHd7
+date 11/02/2024
+buildername breck
+
+url https://news.pub
+creation BuilderNews
+try https://www.youtube.com/embed/obmqd6OJA8s?si=CoCvGZL9-i1MXi0E
+date 11/01/2024
+buildername jim
+
+url https://paper.wf/binarycat/rtp
+creation Reliable Transfer Protocol
+try https://www.youtube.com/embed/0-snH3SNjU8?si=5WV3ErmwtdAcfjWG
+date 10/31/2024
+buildername breck
+
+url https://git-roasted.com/
+creation GitRoasted
+try https://www.youtube.com/embed/a5A2sEB4SUc?si=a-76Eg0LPPyqk8rh
+date 10/31/2024
+buildername breck
+
+url https://www.shotscout.org
+creation ShotScout
+try https://www.loom.com/embed/4637f9ef19fd42f8b05223d23123f3fe?sid=d59d04b2-5629-472c-bcd1-3870ae165061
+date 10/31/2024
+buildername breck
+
+url https://www.anky.bot/
+creation anky.bot
+try https://www.youtube.com/embed/E0Tfus_KvvQ?si=kj63LJpMiNWR1-62
+date 10/31/2024
+buildername breck
+
+url x.com
+creation test
+try https://youtube.com/shorts/RFCE7fo7kOM
+date 10/30/2024
+buildername bardic
+
+url https://www.thememeco.com/
+creation TheMemeCo
+try https://www.loom.com/embed/17d96d53a6534830ae01138cf2b8ffd2?sid=5eadc968-72eb-4d11-8db0-e2ea21ee9313
+date 10/28/2024
+buildername breck
+
+url https://aquaware.cloud/
+creation Aquaware
+try https://www.loom.com/embed/3e0de3dc94a748eca18e3ae31c1cbd08?sid=0c974770-da4a-4cde-be3a-423146438f4e
+date 10/28/2024
+buildername breck
+
+url https://github.com/Dyslex7c/Decentralized-Twitter
+creation Decentralized Twitter
+try https://www.loom.com/embed/8782c97d46a84314818f02eeb2b5b31a?sid=ccec7c1b-dbde-45b1-bdf2-49dd4d5ba8bc
+date 10/27/2024
+buildername breck
+
+url https://corevalueswizard.com/
+creation Core Values Wizard
+try https://www.youtube.com/embed/5MsTLTod-sk?si=1GBBPNaApL1N3wFn
+date 10/27/2024
+buildername breck
+
+url https://www.histruct.com/
+creation HiStruct
+try https://www.youtube.com/embed/6-mXtaQKwTA?si=CJZtIGeifDAyyXIx
+date 10/25/2024
+buildername breck
+
+url https://cornhub.website/
+creation Cornhub
+try https://www.youtube.com/watch?v=AG4rkpdmBMM
+date 10/25/2024
+buildername breck
+
+url https://hnup.date/
+creation HN Update
+try https://www.loom.com/embed/9e8b8d454ee14873883b4e5e1cca9579?sid=a73ce53c-bef9-4897-b72e-5b7eafa946e3
+date 10/20/2024
+buildername breck
+
+url https://samtxt.samrawal.com/
+creation sam.txt
+try https://www.youtube.com/embed/qh2mq0KJMsw?si=K3eoDPngkYKkQg6l
+date 10/20/2024
+buildername breck
+
+url https://foundersfund.com
+creation FoundersFund.com
+try https://www.youtube.com/embed/6Orxo69B5bE?si=8EGKo6XbK7cwvxA-
+date 10/20/2024
+buildername breck
+
+url https://a16z.com
+creation a16z.com
+try https://www.youtube.com/embed/O_wPL9atrJs?si=d1viIqwoIrGoMnnk
+date 10/20/2024
+buildername breck
+
+url https://riff.cc/
+creation Riff.cc
+try https://www.youtube.com/embed/aNHFMt1x3wQ?si=TaNnHcpHqYby3aMV
+date 10/20/2024
+buildername breck
+
+url https://airtable.com/
+creation Airtable
+try https://www.loom.com/embed/9322b62f57814403844d29147811ac8e?sid=b018e721-287d-44c8-85fe-3a20f82d66fa
+date 10/16/2024
+buildername breck
+
+url https://floss.fund/blog/announcing-floss-fund/
+creation The FLOSS Fund
+try https://www.youtube.com/embed/4BH8DRXwVRw?si=kejHy1r-cIzzv6XP
+date 10/16/2024
+buildername breck
+
+url https://aisearchwatch.com/demo/YCombinator/2024-10-09-v1-4dc5370a2e9cbd7b/competitors/index.html
+creation AISearchWatch.com
+try https://www.loom.com/embed/4f11ab7349854fc6b8e77209d50e2d80?sid=76066538-30ea-4e48-bbb8-cbfb6c83c138
+date 10/15/2024
+buildername breck
+
+url https://founderpal.ai/elevator-pitch-generator
+creation Elevator Pitch Generator
+try https://www.loom.com/embed/39ac6fb72b974ad0b1663cd4db81230d?sid=c4648a34-61a0-4e19-ad83-e8e650d08a92
+date 10/15/2024
+buildername breck
+
+url https://readtxt.in
+creation Readtxt.in
+try https://www.loom.com/embed/cf58f667a2314350bd32e40a0d206c35?sid=3dcc2923-4334-4c95-95af-6b91a064ac26
+date 10/15/2024
+buildername breck
+
+url https://www.moneyisfunny.co/
+creation Money is Funny Tech Pitch Roast Show
+try https://www.youtube.com/embed/StZ3T3HX8fE?si=vjOLCNasINsJw3bS
+date 10/15/2024
+buildername breck
+
+url https://goglobal.world
+creation Go Global World
+try https://www.youtube.com/embed/Sme7XyjpvJI?si=iikUUp0HhCkBok63
+date 10/15/2024
+buildername breck
+
+url https://dingboard.com
+creation Dingboard
+try https://www.youtube.com/embed/cgkwMV26eOE?si=GOijQjix6Cvb3Wpb
+date 10/14/2024
+buildername breck
+
+url https://developers.zoom.us/docs/api/
+creation Zoom API
+try https://www.youtube.com/embed/Jt8iRz7phJs?si=Ne2HZzxXLiuMl4df
+date 10/13/2024
+buildername breck
+
+url https://www.outspeed.com/
+creation Outspeed AI
+try https://www.youtube.com/embed/BzrTyXGT99o?si=6DfOAqd9QokawFMZ
+date 10/13/2024
+buildername breck
+
+url https://wordware.ai/
+creation Wordware AI
+try https://www.youtube.com/embed/eK9v6nr8sxA?si=gbvvrhARpyxb9_cX
+date 10/13/2024
+buildername breck
+
+url https://omniscience.tech/
+creation OmniScience
+try https://www.youtube.com/embed/jtiyMkJ_Nwc?si=4ss14nGCrpY_NcZt
+date 10/13/2024
+buildername breck
+
 url https://www.rugu.dev/en/blog/plain-text/
 creation Reading "Lessons from Plain Text"
 try https://www.youtube.com/embed/rx7nv6R5Rww?si=tuR6lhGHbNW6BYUa
@@ -352,9 +790,9 @@ try https://www.youtube.com/embed/ERpyG_f2gJE?si=ItqT1mPweRQZJ75h
 date 9/24/2024
 buildername breck
 
-url https://news.pub/
+url https://news.pub
 creation BuilderNews
-try https://www.loom.com/share/9629c883f32b4fa58af29d7a43c3ba27?sid=b980cc28-b225-4e3e-8b3d-7790e376d88e
+try https://www.loom.com/embed/9629c883f32b4fa58af29d7a43c3ba27?sid=697cd667-0b1b-4ffe-a3cb-b42242907bf0
 date 9/23/2024
 buildername hassam
 
