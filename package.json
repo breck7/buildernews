@@ -11,9 +11,9 @@
   "dependencies": {
     "scroll-cli": "^150.0.0"
   },
-  "homepage": "https://news.pub",
+  "homepage": "https://buildernews.breck.lol",
   "repository": {
     "type": "git",
-    "url": "git+https://news.pub/news.pub.git"
+    "url": "git+https://buildernews.breck.lol/buildernews.breck.lol.git"
   }
 }

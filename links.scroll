@@ -1,6 +1,6 @@
 Home | Builders | Join | Add Try | JSON
  link index.html Home
  link builders.html Builders
- /edit.html?folderName=news.pub&fileName=builders.scroll Join
- /edit.html?folderName=news.pub&fileName=tries.scroll Add Try
+ https://github.com/breck7/buildernews/blob/main/builders.scroll Join
+ https://github.com/breck7/buildernews/blob/main/tries.scroll Add Try
  link tries.json JSON
