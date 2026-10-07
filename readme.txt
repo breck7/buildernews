@@ -1,3 +1,13 @@
+Instead of working on BuilderNews, we discovered BuildHop!!!
+
+https://buildhop.io/
+
+If you liked what we were trying to do here, you'll love BuildHop!
+
+Thanks everyone for trying buildernews and go get hopping!
+
+-Breck
+
 Aloha!
 
 BuilderNews is a new place on the web (and the World Wide Scroll) full of good energy.
